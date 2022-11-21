@@ -1,0 +1,19 @@
+{
+  "name": "image_resize",
+  "version": "1.0.0",
+  "description": "Image resizing using sharp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavsaurabh7/image_resize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavsaurabh7/image_resize/issues"
+  },
+  "homepage": "https://github.com/yadavsaurabh7/image_resize#readme"
+}
